@@ -35,8 +35,9 @@ This is a condition I apply to all my work. I believe that the more personal a s
 
 3.2 Game Plan
 Title: 박우성의 대모험 (The Great Adventure of Woosung Park)
-(I chose a cliché, old-school game title on purpose. 
-Additionally, since the Atari was never officially released in South Korea and was a very unfamiliar machine there, I thought it would be interesting to include Korean text. )
+
+I chose a cliché, old-school game title on purpose. 
+Additionally, since the Atari was never officially released in South Korea and was a very unfamiliar machine there, I thought it would be interesting to include Korean text. 
 
 Genre: Shooting Action
 
