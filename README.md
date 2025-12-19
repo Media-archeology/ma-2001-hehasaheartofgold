@@ -16,7 +16,7 @@ This was the most difficult step of the entire project. I almost changed console
 
 To run code on the Atari ST, it must be compiled into a .prg format. This required a compatible compiler. Because I worked on macOS, I needed a Mac-compatible compiler. However, most available compilers were designed for Windows, so finding and installing the right one involved many trials and errors.
 
-Details about installing the compiler are explained in the Guideline section.
+Details about installing the compiler are explained in the Guideline. -> https://wiki.dad.ynh.fr/books/guideline-for-atari-st
 
 ⸻
 
