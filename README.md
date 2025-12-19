@@ -59,3 +59,5 @@ Naturally, the Atari ST cannot read image files directly. All in-game graphics w
 
 To achieve this, I created a PNG-to-C converter using Python.
 Since the Atari ST can display only 16 colors per screen, all PNG images were designed within this color limitation before conversion.
+
+https://youtu.be/qFIXHqEC46I?si=5C0Vzu0flQPzOEK3
