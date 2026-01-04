@@ -2,6 +2,8 @@
 
 _(The Great Adventure of Woosung Park)_
 
+![Game hero image](images/game-hero-image.png)
+
 ## 1. Choosing the Console → Atari ST
 
 There were three possible options: Amiga 500, Macintosh Plus, and Atari ST.
